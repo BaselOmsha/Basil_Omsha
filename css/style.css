@@ -37,6 +37,14 @@ body {
     font-size:15px;
 }
 
+#navbar a:hover {
+    color: rgb(76, 41, 235);
+}
+
+#navbar a:active {
+    color: rgb(128, 0, 21);
+}
+
 .center {
     display: block;
     margin-left: auto;
